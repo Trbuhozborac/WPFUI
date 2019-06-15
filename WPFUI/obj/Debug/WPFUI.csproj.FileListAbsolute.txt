@@ -23,3 +23,7 @@ C:\Users\I7\Documents\Visual Studio 2017\Projects\CMDemo\WPFUI\obj\Debug\WPFUI.c
 C:\Users\I7\Documents\Visual Studio 2017\Projects\CMDemo\WPFUI\obj\Debug\WPFUI.csproj.CopyComplete
 C:\Users\I7\Documents\Visual Studio 2017\Projects\CMDemo\WPFUI\obj\Debug\WPFUI.exe
 C:\Users\I7\Documents\Visual Studio 2017\Projects\CMDemo\WPFUI\obj\Debug\WPFUI.pdb
+C:\Users\I7\Documents\Visual Studio 2017\Projects\CMDemo\WPFUI\obj\Debug\Views\FirstChildView.g.cs
+C:\Users\I7\Documents\Visual Studio 2017\Projects\CMDemo\WPFUI\obj\Debug\Views\SecondChildView.g.cs
+C:\Users\I7\Documents\Visual Studio 2017\Projects\CMDemo\WPFUI\obj\Debug\Views\FirstChildView.baml
+C:\Users\I7\Documents\Visual Studio 2017\Projects\CMDemo\WPFUI\obj\Debug\Views\SecondChildView.baml
